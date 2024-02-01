@@ -9,12 +9,21 @@
 }
 
 .nav__top {
+    color: black;
     background-color: white;
     display: flex;
     z-index: 100;
     position: relative;
     width: 100%;
     height: 3.5vh;
+}
+
+.nav-header-start-text {
+    color: black;
+}
+
+.nav-header-start-text a {
+    color: #9130b8;
 }
 
 .nav__top-d {
@@ -74,6 +83,7 @@
 }
 
 .site-name-nav {
+    font-size: 30px;
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
 }
