@@ -4,7 +4,7 @@
 		var items = item.querySelectorAll('li'),
         current = 0,
         autoUpdate = true,
-        timeTrans = 4000;
+        timeTrans = 2400;
         
 		//create nav
 		var nav = document.createElement('nav');
@@ -26,10 +26,10 @@
 		counter.innerHTML = "<span>1</span><span>"+items.length+"</span>";
 
 		if (items.length > 1) {
-			nav.appendChild(prevbtn);
-			nav.appendChild(counter);
-			nav.appendChild(nextbtn);
-			item.appendChild(nav);
+			// nav.appendChild(prevbtn);
+			// nav.appendChild(counter);
+			// nav.appendChild(nextbtn);
+			// item.appendChild(nav);
 		}
 
 		items[current].className = "current";
