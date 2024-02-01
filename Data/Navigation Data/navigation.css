@@ -22,6 +22,7 @@
     height: 100%;
 }
 
+
 .nav__top-icons{
     display: flex;
     justify-content: end;
@@ -93,6 +94,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .nav-button {
