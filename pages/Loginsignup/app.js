@@ -54,6 +54,8 @@ formsigninbtn.addEventListener("click", function(){
 			text: "Please click back button, sorry for our error",
 			icon: "success"
 		  });
+		loginemailinput.value = ""
+		loginpasswordinput.value = ""
 	} else {
 		Swal.fire({
 			icon: "error",

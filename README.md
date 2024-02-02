@@ -1,3 +1,1 @@
-# Project-HTML-CSS-Java-Script
-
-Hello Dachi
+# Project HTML/CSS/JavaScript
