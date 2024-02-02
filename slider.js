@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 (function() {
 
 	function init(item) {
@@ -6,7 +6,7 @@
         current = 0,
         autoUpdate = true,
         timeTrans = 3000;
-        
+	}
 		//create nav
 		var nav = document.createElement('nav');
 		nav.className = 'nav_arrows';
@@ -124,7 +124,7 @@
 		};
 
 
-=======
+
 let slide_data = [
 	{
 	  'src':'https://images.unsplash.com/photo-1506765336936-bb05e7e06295?ixlib=rb-0.3.5&s=d40582dbbbb66c7e0812854374194c2e&auto=format&fit=crop&w=1050&q=80',
@@ -194,7 +194,7 @@ let slide_data = [
 		break;
 	  default:
 		 break;       
->>>>>>> 012d3697327c1d11bbce41833d5b3191849a4a3b
+
 	}
 	caption.appendChild(slide_title);
 	caption.insertAdjacentHTML('beforeend','<div class="caption-subhead"><span>dolor sit amet, consectetur adipiscing elit. </span></div>');
@@ -262,7 +262,5 @@ let slide_data = [
 	console.log('animation ended');
   
 	// Do something when the transition ends
-  }
-  
-  
+
   
