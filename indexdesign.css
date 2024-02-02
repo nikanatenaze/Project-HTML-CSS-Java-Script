@@ -18,6 +18,11 @@
   overflow: hidden;
 }
 
+.username-nav {
+  color: black;
+  font-size: 18px;
+}
+
 .slides{
   display: flex;
   height: 100%;
