@@ -262,5 +262,5 @@ let slide_data = [
 	console.log('animation ended');
   
 	// Do something when the transition ends
+  }
 
-  
