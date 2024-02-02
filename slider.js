@@ -1,11 +1,11 @@
 
-(function() {
+(function()) 
 
 	function init(item) {
 		var items = item.querySelectorAll('li'),
         current = 0,
         autoUpdate = true,
-        timeTrans = 3000;
+        timeTrans = 2000;
 	}
 		//create nav
 		var nav = document.createElement('nav');
