@@ -201,7 +201,8 @@
   width: 100%;
 }
 
-.secabouts p {
+.secabouts div {
+  width: 50px;
   color: black;
   font-size: 30px;
 }
@@ -300,7 +301,9 @@
   flex-direction: column;
   gap: 20px;
   width: 100%;
-  height: 450px;
+  height: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background-color: #EDEFEB;
 }
 
@@ -347,6 +350,7 @@
 }
 
 .thexfactor-info {
+  margin-top: 30px;
   width: 100%;
   height: 65%;
   display: flex;
@@ -354,4 +358,13 @@
   justify-content: center;
   gap: 100px;
   flex-wrap: wrap;
+}
+
+@media screen and (max-width: 755px) {
+    .secabout-in img {
+      width: 40px;
+    }
+    .secabout-in p {
+      font-size: 12px;
+    }
 }
