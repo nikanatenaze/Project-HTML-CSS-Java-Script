@@ -139,6 +139,8 @@ p {
     .dk-footer-box-info .footer-social-link a i.fa-instagram {
       background-color: #B7242A; }
 
+
+
 .footer-awarad {
   margin-top: 285px;
   display: -webkit-box;
@@ -224,7 +226,7 @@ p {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 12px 24px 12px 17px;
+    padding: 16px 24px 12px 17px;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
     border: 1px solid #007bff;
