@@ -27,7 +27,7 @@ h1 {
     -webkit-text-stroke-color: transparent;
     letter-spacing: 4px;
     background-color: purple;
-    background: linear-gradient(8deg, rgb(63, 8, 83) 0%, rgb(125, 23, 86)41%,rgb(30, 28, 28)) 100%;
+    background: linear-gradient(8deg, rgb(63, 8, 83) 0%, rgb(241, 12, 154)41%,rgb(29, 28, 30)) 100%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
    position: relative;
