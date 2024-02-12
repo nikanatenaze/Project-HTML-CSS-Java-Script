@@ -77,7 +77,7 @@ h1 span {
 .card {
     height: 330px;
     width: 370px;
-    background-color: black; 
+    background-color: rgb(0, 0, 0); 
     padding: 3% 8%;
     border: 0.2px solid rgba(114, 226, 174, 0.2);
     border-radius: 8px;
@@ -136,7 +136,7 @@ h1 span {
 }
 
 .card:hover i {
-    color: purple;
+    color:purple;
 }
 
 @media screen and (max-width: 1200px) {
