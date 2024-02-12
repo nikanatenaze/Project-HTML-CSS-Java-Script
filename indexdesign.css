@@ -302,12 +302,13 @@
   gap: 20px;
   width: 100%;
   height: auto;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 110px;
+  padding-bottom: 110px;
   background-color: #EDEFEB;
 }
 
 .thexfactor-title {
+  margin-bottom: 30px;
   width: 100%;
   height: 20%;
   display: flex;

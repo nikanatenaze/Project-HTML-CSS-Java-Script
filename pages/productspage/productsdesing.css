@@ -9,9 +9,9 @@ body {
 }
 
 .sert {
-    position: relative;
+    position: fixed;
+    top: 165px;
     left: 100px;
-
     box-shadow: 5px 5px 15px 1px rgba(0, 0, 0, 0.421);
     display: flex;
     align-items: center;
@@ -24,11 +24,13 @@ body {
 }
 
 .products-sec {
+    position: relative;
+    left: 400px;
     margin-top: 50px;
-    gap: 30px;
+    gap: 20px;
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 1500px;
     height: auto;
 }
 
@@ -128,7 +130,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    width: 80%;
+    width: 1500px;
     height: auto;
     gap: 30px;
     padding-bottom: 50px;
