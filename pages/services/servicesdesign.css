@@ -21,6 +21,8 @@
     align-items: center;
 }
 
+
+
 h1 {
     color: white;
     font-size: 5rem;
@@ -80,7 +82,7 @@ h1 span {
     width: 370px;
     background-color: rgb(0, 0, 0); 
     padding: 3% 8%;
-    border: 0.2px solid rgba(114, 226, 174, 0.2);
+    border: 0.2px solid purple;
     border-radius: 8px;
     transition: .6s;
     display: flex;
